@@ -1,16 +1,18 @@
 ![Header](./github-header-banner.png)
 <h1 align="center">Hi 👋, I'm Antonio</h1>
-<h3 align="center">A geeky and passionate backend (and IaaS) developer from Spain!</h3>
+<h3 align="center">A geeky (very) and passionate backend (and IaaS) developer from Spain!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agvergara&label=Profile%20views&color=0e75b6&style=flat" alt="agvergara" /> </p>
 
 - 🔭 I’m currently working at **Eventbrite**
 
+- 📖 What I am learning? **With the surge of AI, I'm learning how to really use it and giving more human contribution on a machine-focused world**
+
 - 📫 How to reach me **Please use LinkedIn!**
 
 - 📄 Know about my experiences [My LinkedIn!](http://linkedin.com/in/antoniogvergara/)
 
-- ⚡ Fun fact **Probably I'm one of the few persons you'll meet with a big boardgame collection! :game_die: **
+- ⚡ Fun fact! -> **Probably I'm one of the few persons you'll meet with a big boardgame collection! 🎲 **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
