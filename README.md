@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working at **Eventbrite**
 
-- 📫 How to reach me **Through LinkedIn**
+- 📫 How to reach me **Please use LinkedIn!**
 
-- 📄 Know about my experiences [http://linkedin.com/in/antoniogvergara/](http://linkedin.com/in/antoniogvergara/)
+- 📄 Know about my experiences [My LinkedIn!](http://linkedin.com/in/antoniogvergara/)
 
-- ⚡ Fun fact **Probably I'm one of the few persons you'll meet with a big boardgame collection**
+- ⚡ Fun fact **Probably I'm one of the few persons you'll meet with a big boardgame collection! :game_die: **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
